@@ -4,7 +4,7 @@
 GITHUB_REPO_URL="https://github.com/yourusername/V2Netvpn.git"  # Replace with your GitHub URL
 CLONE_DIR="/home/ubuntu/V2Netvpn"
 SCRIPT_PATH="$CLONE_DIR/ping_report.sh"
-TARGET="google.com"  # Domain or IP to ping
+TARGET="172.16.1.2"  # Domain or IP to ping
 
 # Step 1: Ask the user for the server ID
 read -p "Please enter your server ID: " SERVER_ID
