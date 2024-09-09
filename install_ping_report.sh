@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-GITHUB_REPO_URL="https://github.com/yourusername/V2Netvpn.git"  # Replace with your GitHub URL
+GITHUB_REPO_URL="https://github.com/V2Netvpn/ping-report.git"  # Replace with your GitHub URL
 CLONE_DIR="/home/ubuntu/V2Netvpn"
 SCRIPT_PATH="$CLONE_DIR/ping_report.sh"
 TARGET="172.16.1.2"  # Domain or IP to ping
